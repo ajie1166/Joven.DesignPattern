@@ -38,7 +38,7 @@ namespace Joven.DesignPattern.Prototype
         }
     }
 
-    //浅表
+    //浅表复制
     public class JianLi : ICloneable
     {
         private string name = string.Empty;
@@ -84,7 +84,7 @@ namespace Joven.DesignPattern.Prototype
 
 
 
-    //深表
+    //深表复制
     public class Resume
     {
         private string name = string.Empty;
