@@ -84,7 +84,7 @@ namespace Joven.DesignPattern.Prototype
 
 
 
-    //深表 猹猹
+    //深表 fuck
     public class Resume
     {
         private string name = string.Empty;
