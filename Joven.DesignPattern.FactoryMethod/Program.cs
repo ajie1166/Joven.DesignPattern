@@ -10,6 +10,7 @@ namespace Joven.DesignPattern.FactoryMethod
     {
         static void Main(string[] args)
         {
+            //测试代码
         }
     }
 }
